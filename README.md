@@ -2,6 +2,9 @@
 
 Este proyecto utiliza un sensor DHT22 para monitorear la temperatura y la humedad, y envía alertas y datos a través de un bot de Telegram. El código está diseñado para ser ejecutado en un ESP32, que se conecta a una red Wi-Fi y utiliza la API de Telegram para enviar y recibir mensajes.
 
+  <img src="media/esp32-dht22.png" width="400" title=" #programadorNovato" alt="Prestada de: https://www.programadornovato.com/sensor-de-temperatura-dht11-y-dht22-en-esp32/">
+
+
 ## Características
 
 - **Monitoreo en tiempo real**: Lee la temperatura y la humedad del sensor DHT22.
